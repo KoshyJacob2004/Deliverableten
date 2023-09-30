@@ -60,15 +60,15 @@ a {
 
 /* change colours to suit your needs */
 ins {
-    background-color:rgb(244, 244, 134);
-    color:#151515;
+    background-color:#ff9;
+    color:#000;
     text-decoration:none;
 }
 
 /* change colours to suit your needs */
 mark {
-    background-color:#fdfd8d;
-    color:#030303; 
+    background-color:#ff9;
+    color:#000; 
     font-style:italic;
     font-weight:bold;
 }
@@ -92,7 +92,7 @@ hr {
     display:block;
     height:1px;
     border:0;   
-    border-top:1px solid #d08888;
+    border-top:1px solid #dc9292;
     margin:1em 0;
     padding:0;
 }
